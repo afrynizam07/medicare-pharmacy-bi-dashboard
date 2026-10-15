@@ -72,7 +72,7 @@ Full formulas
 
 ## 📄 Documentation
 
-- [Project report extract: design and implementation (docx)](MedicareReport.docx)
+- [Project report extract: design and implementation (docx)](medicare-bi-report-extract.docx)
 
 ## 📂 Repository Contents
 
