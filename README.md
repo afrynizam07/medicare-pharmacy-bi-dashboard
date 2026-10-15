@@ -23,7 +23,7 @@ Completed for **Unit 17: Business Process Support** (Pearson BTEC HND in Computi
 
 A sample dataset of **25 records** across **6 branches** (Colombo, Galle, Kandy, Jaffna, Kurunegala, Matara), created for this assignment. Fields: `MedicineName`, `Branch`, `SalesAmount`, `StockQuantity`, `DaysToExpiry`, `PrescriptionID`.
 
-File: [`data/MediCare_PowerBI_Data.xlsx`](data/MediCare_PowerBI_Data.xlsx)
+File: [`MediCare_PowerBI_Data.xlsx`](MediCare_PowerBI_Data.xlsx)
 
 **Data quality fix:** one record had an invalid, non-numeric expiry value, which was corrected in Power Query so expiry alerts are accurate.
 
@@ -72,7 +72,7 @@ Full formulas
 
 ## 📄 Documentation
 
-- [Project report extract: design and implementation (docx)](medicare-bi-report-extract.docx)
+- [Project report extract: design and implementation (docx)](MedicareReport.docx)
 
 ## 📂 Repository Contents
 
